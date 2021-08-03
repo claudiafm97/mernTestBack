@@ -1,0 +1,26 @@
+{
+  "name": "mernTestBack",
+  "version": "1.0.0",
+  "description": "Back-end test mern",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiafm97/mernTestBack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiafm97/mernTestBack/issues"
+  },
+  "homepage": "https://github.com/claudiafm97/mernTestBack#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5"
+  }
+}
